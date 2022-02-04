@@ -1,0 +1,160 @@
+[{
+    "name": "Ardika Prasetyo",
+    "phone": "+60 19 602 7173",
+    "email": "ardikapras@gmail.com",
+    "website": "http://ardikapras.me",
+    "location": "Malaysia",
+    "subtitle": "Technical Lead",
+    "summary": "Experienced Java Developer with more than 4 years experience in designing, developing, testing, and implementing LOS System (using Java, Struts, Oracle Weblogic, and Oracle DB) into production. Proven ability on Production support. Able to complete projects efficiently and within timeline. Technology enthusiast, love playing games especially Switch! Have been lead Performance Testing using analysis tool like Dynatrace, successfully tuning on JSP tag library, stored procedure, and java. Been using Python, Docker, Angular, Selenium, and many more for increasing productivity and improve quality of working.",
+    "workExperience": [
+        {
+            "role": "Technical Lead",
+            "company": "Hitachi Ebworx Sdn Bhd [MY]",
+            "from": "Aug 2018",
+            "to": "Present",
+            "summary": "Participate in requirement, design, implementation, testing and support of custom banking solutions, which include features enhancements, new functionalities, and back-end systems integration. Define and manage resource plan together with the Project Manager aligning to the project schedule. Plan and drive the project’s technical execution to achieve the committed scope and timeline. Ability to co-ordinate multi-teams (e.g. customers, internal functional and technical SMEs), to understand business requirements, technical design and preparing of technical specifications. Assist in estimation of efforts and timescales for tasks delegated to the team. Contribute to design/code reviews for quality assurance and conformance to Hitachi eBworx standards / guidelines.",
+            "listOfDetails": [
+                "Lead Performance Test team to achieve high performance system on Production.",
+                "Lead a team for developing new module.",
+                "Lead a project with multiple enhancement.",
+                "Tech Stack: Java, Oracle Weblogic, Oracle Database, Struts 1 & 2, Axis 2, JMeter, Dynatrace"
+            ]
+        },
+        {
+            "role": "Senior Software Engineer",
+            "company": "ABB Enterprise Software [ID]",
+            "from": "Aug 2017",
+            "to": "Aug 2018",
+            "summary": "Research and evaluate various technologies to formulate a technical design that best suits the requirements. Undertake quality control / Verification and Validation (V&V) activities in particular code reviews. Design, develop and / or re-engineer highly complex application components, integrated software packages and programs.",
+            "listOfDetails": [
+                "Involve on transforming internal framework technology, from Flex to Java.",
+                "Involve on developing Automation Testing using Selenium, Docker, and Oracle Database.",
+                "Tech Stack: Selenium, Java, Docker, Git, Ivy, Oracle Database"
+            ]
+        },
+        {
+            "role": "Senior Application Engineer",
+            "company": "Hitachi Ebworx Sdn Bhd [MY]",
+            "from": "Apr 2016",
+            "to": "Aug 2017",
+            "summary": "Implementing new enchanchement on banking bussiness. Fine tuning database, fixing bugs, manage environment system for testing and production, setting batch job scheduler, and maintain report.",
+            "listOfDetails": [
+                "Lead a team consist of 5 people to develop a new module in an existing system.",
+                "Succesfully implement an enhancement with minor defect.",
+                "Manage to develop the 2 intern become senior after more than 2 years.",
+                "Tech Stack: Java, Oracle Weblogic, Oracle Database, Struts 1, Axis 2"
+            ]
+        },
+        {
+            "role": "Application Engineer",
+            "company": "Hitachi Ebworx Sdn Bhd [MY]",
+            "from": "Apr 2016",
+            "to": "Aug 2017",
+            "summary": "Implementing new enchanchement on banking bussiness. Fine tuning database, fixing bugs, manage environment system for testing and production, setting batch job scheduler, and maintain report.",
+            "listOfDetails": [
+                "Lead a team consist of 2 people (both is intern) for Production support.",
+                "Tech Stack: Java, Oracle Weblogic, Oracle Database, Struts 1, Axis 2"
+            ]
+        },
+        {
+            "role": "Java Programmer",
+            "company": "PT. Skyworx Indonesia [ID]",
+            "from": "May 2014",
+            "to": "Nov 2014",
+            "summary": "Implementing new feature in existing application, bug fixing, and improving existing application as request from client.",
+            "listOfDetails": [
+                "First time developing Java on the real project.",
+                "Tech Stack: OO Design, OOP, J2EE, Hibernate, Richfaces, SQL Server, MVC in Java, Java Core, GitHub"
+            ]
+        },
+        {
+            "role": "Web Programmer",
+            "company": "Nadyne Media Tama [ID]",
+            "from": "Feb 2014",
+            "to": "May 2014",
+            "summary": "Developing website for promotion using PHP Framework (CodeIgniter, Yii, or from scratch), MySQL as database, JQuery as Javascript, and Bootstrap for css framework. In this workplace, I learn how to work together as team when developing website. I learn how to create html, php, css, and js from photoshop web design.",
+            "listOfDetails": [
+                "First time working as real developer.",
+                "Tech Stack: MVC Consept, PHP, MySQL, Boostrap, CodeIgniter, Yii Framework, TortoiseGit."
+            ]
+        },
+        {
+            "role": "Staff Agate Academy",
+            "company": "Nadyne Media Tama [ID]",
+            "from": "Feb 2014",
+            "to": "May 2014",
+            "summary": "Work as HRD Staff, which I have responsibilities instilling company culture to other crew in company. I created some tutorial too for new crew to accelerate their learning. Sometimes, I give insight or presentation to college who want to know about game development. In this place, I learn how to manage our strength and weakness. How to improve myself and how to make myself comfort in any workplace.",
+            "listOfDetails": [
+                "Get an opportunity to improve my soft skill on a great startup company."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "projectTitle": "Loan Origination System",
+            "projectType": "Hitachi eBworx Sdn Bhd",
+            "projectDesc": "LOS System is an end-to-end automated rules based credit origination solution covering origination from various channels including outsource agencies, credit underwriting and approval via web-based PCs and Mobile Tablet."
+        }
+    ],
+    "skills": [
+        {
+            "technicalSkills": [
+                "Java",
+                "Struts 1 & 2",
+                "Docker",
+                "NodeJS",
+                "HTML 5 / CSS",
+                "Oracle Database 12c & Weblogic 12",
+                "JavaScript / Angular",
+                "Unix Env",
+                "Object-oriented design",
+                "Python 3",
+                "Design and implement database structures",
+                "Lead and deliver complex software systems"
+            ],
+            "softSkills": [
+                "Effective communication",
+                "Team player",
+                "Strong problem solver",
+                "Basic knowledge of managing a project",
+                "Good time management"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "title": "Bachelor of Computer Science",
+            "college": "Indonesia University of Education",
+            "timeframe": "2006 - 2013"
+        }
+    ],
+    "awards": [],
+    "courses": [
+        {
+            "link": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/",
+            "detail": "Docker and Kubernetes: The Complete Guide"
+        },
+        {
+            "link": "https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+            "detail": "Angular - The Complete Guide (2020 Edition)"
+        },
+        {
+            "link": "https://www.udemy.com/course/complete-python-bootcamp/",
+            "detail": "Complete Python Bootcamp: Go from zero to hero in Python 3"
+        }
+    ],
+    "languages": [
+        {
+            "lang": "Indonesian",
+            "level": "Native"
+        },
+        {
+            "lang": "English",
+            "level": "Fluent"
+        },
+        {
+            "lang": "Malaysian",
+            "level": "Fluent"
+        }
+    ]
+}]
